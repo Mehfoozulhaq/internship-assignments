@@ -38,5 +38,4 @@ These metrics help measure the accuracy and performance of the model.
 - `README.md` – Project documentation
 ## Outcome
 The model is able to predict house prices with reasonable accuracy based on the provided features, demonstrating the practical application of Linear Regression in real-world scenarios.
-- **Your Name**
-- Python Development Intern
+
