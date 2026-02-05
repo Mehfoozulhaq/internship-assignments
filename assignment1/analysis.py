@@ -12,7 +12,7 @@ print(df.info())
 
 # Get average sales
 avg = df["Sales"].mean()
-print(f"Average Sales: {avg}")
+print(f"average Sales: {avg}")
 
 # Bar chart for sales by category
 sales_by_cat = df.groupby("Category")["Sales"].mean()
